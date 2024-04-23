@@ -8,3 +8,6 @@ Run translation_agent.py and follow the prompts to translate english phrases int
 b) Write demonstrations of various agent types with langchain as colab: LangChainAgents.ipynb
 
 Run colab as usual, you will need to use your own OpenAI API key
+
+
+Demo video link: https://youtu.be/1MmHzyS-1WA
